@@ -1,1 +1,2 @@
-Developed and evaluated classification models (Random Forest, Decision Tree, Logistic Regression) for predicting patient eligibility for operations in the Brazilian healthcare industry, achieving a 5% accuracy improvement.
+
+Implemented and assessed classification models (Random Forest, Decision Tree, Logistic Regression) to predict patient eligibility for operations in the Brazilian healthcare sector, resulting in a 5% increase in accuracy.
